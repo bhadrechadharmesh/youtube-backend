@@ -1,0 +1,17 @@
+{
+  "name": "yt-backend",
+  "version": "1.0.0",
+  "description": "complete backend of youtube",
+  "license": "ISC",
+  "author": "Dharmesh Bhadrecha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  }
+}
