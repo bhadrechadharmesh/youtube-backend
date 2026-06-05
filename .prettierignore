@@ -1,0 +1,13 @@
+*.env
+.env
+.env.*
+
+/.vscode
+/node_modules
+./dist
+./build
+./coverage
+./public
+./static
+.DS_Store
+*.log
